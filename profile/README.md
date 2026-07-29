@@ -1,61 +1,78 @@
 <div align="center">
 
-# MultaEnhavo
+<img src="https://multaenhavo.com/logos/melong-pink.svg" alt="MultaEnhavo" width="420">
 
-**Creative- & Tech-Studio aus Bayern**
-Zwei Divisionen — eine laut, eine leise. Ein Kopf hinter beiden.
+**Independent Software Lab · Neuching, Bayern**
 
-<br>
-
-![Standort](https://img.shields.io/badge/Neuching-Bayern-1863d8?style=for-the-badge)
-![Self-hosted](https://img.shields.io/badge/self--hosted-d61f7a?style=for-the-badge)
-![Open Data](https://img.shields.io/badge/open%20data%20%C2%B7%20ODbL-0c9e77?style=for-the-badge)
+[![Website](https://img.shields.io/badge/multaenhavo.com-0073ed?style=for-the-badge&logoColor=white)](https://multaenhavo.com)
+[![Development](https://img.shields.io/badge/dev.multaenhavo.com-0073ed?style=for-the-badge&logoColor=white)](https://dev.multaenhavo.com)
+[![Media](https://img.shields.io/badge/media.multaenhavo.com-e31c8d?style=for-the-badge&logoColor=white)](https://media.multaenhavo.com)
 
 </div>
 
 ---
 
-## 💻 &nbsp;Development — die Coding-Division
+## Software aus Bayern, gebaut mit großem Anspruch.
 
-> Self-hosted Software für Infrastruktur und Netzwerke. Offen gebaut. Beide Produkte in Arbeit.
+MultaEnhavo ist ein Creative- und Tech-Unternehmen aus Neuching, gegründet 2025 von
+**Nico Thomas Henkel**. Es hat genau zwei Seiten: **Media** — Video, Musik, Foto, die
+laute — und **Development**, die leise. Hier liegt der Code.
 
-**🛰️ atmrOS** &nbsp; ![Live-Preview](https://img.shields.io/badge/Live--Preview-2dd4a7?style=flat-square)
-Offene Geodaten als *eine* lebende Karte kritischer Infrastruktur — Sendemasten, Umspannwerke, Ladesäulen, Türme. Mit Gedächtnis über die Zeit und Quelle an jedem Objekt.
-→ **[atomar.org](https://atomar.org)**
-
-**🛡️ PidanosDNS** &nbsp; ![In Arbeit](https://img.shields.io/badge/In%20Arbeit-f59e0b?style=flat-square)
-DNS-Filter fürs ganze Netz — self-hosted, vom Server bis zum Raspberry Pi.
+Wir bauen eigene Tools für **Karten**, **Netzwerke** und **Automatisierung**.
+Noch klein, aber mit klarer Richtung: sauber, nützlich, belastbar.
 
 ---
 
-## 🔊 &nbsp;Media — die laute Division
+## Was hier entsteht
 
-> Video, Musik & Foto aus Bayern.
+| | Projekt | Was es macht | Status |
+|:--:|:--|:--|:--|
+| 🗺️ | **atmrOS** | Das ehrliche ctOS. Offene Geodaten — Sendemasten, Strommasten, Umspannwerke, Ladesäulen, Türme — als **eine** Ebene. Mit Gedächtnis. Mit Quellen. Ohne Menschen zu messen. | `In Bau` |
+| 🛡️ | **PidanosDNS** | Dein Netzwerk, deine Regeln. DNS-Kontrolle auf Netzwerkebene: Malware, Tracker und Werbung fallen am Gateway — vom Server bis zum Raspberry Pi. | `In Planung` |
 
-| Marke | Bereich | |
-|---|---|:--:|
-| **MaximalNico** | Motovlogs & Gaming | **[↗](https://maximalnico.de)** |
-| **X7F9 Audiowave** | AI-Musik | **[↗](https://x7f9.com)** |
-| **LumeraPixel** | Fotografie | **[↗](https://lumerapixel.com)** |
+> Der Status ist ehrlich gemeint. Nichts hier ist fertig, und nichts wird so verkauft.
 
 ---
 
-## 🧰 &nbsp;Stack
+## Haltung
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**KI ist ein gnadenlos gutes Werkzeug, aber ein lausiger Architekt.**
+Wir deployen keinen blinden Copy-Paste-Schrott, sondern chirurgisch polierten Code,
+den wir zu 100 % verstehen.
+
+**Nur weil Software komplexe Daten verarbeitet, muss sie nicht aussehen wie 2010.**
+Wir bauen extrem saubere, schnelle Interfaces — schlicht, weil hässliche Systeme nerven.
+
+**Cloud ist bequem, Vendor-Lock-in ist ein Fehler.**
+Kontrolle und Daten bleiben auf unserem eigenen Grund und Boden.
+
+**Der beste Code der Welt ist wertlos, wenn er im lokalen Branch verrottet.**
+Stabiles Fundament gießen, UI hochziehen, live bringen — statt totplanen.
+
+---
+
+## Stack
+
+![Astro](https://img.shields.io/badge/Astro-0073ed?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0073ed?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0073ed?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0073ed?style=flat-square&logo=fastapi&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-0073ed?style=flat-square&logo=postgresql&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-0073ed?style=flat-square&logo=maplibre&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0073ed?style=flat-square&logo=docker&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material%203-0073ed?style=flat-square&logo=materialdesign&logoColor=white)
+
+Self-hosted auf eigener Hardware. Geodaten von **OpenStreetMap** (ODbL).
+Keine Cookies, kein Fingerprinting.
 
 ---
 
 <div align="center">
 
-**[multaenhavo.com](https://multaenhavo.com)** &nbsp;·&nbsp; **[dev.multaenhavo.com](https://dev.multaenhavo.com)** &nbsp;·&nbsp; **[media.multaenhavo.com](https://media.multaenhavo.com)**
+**Reden wir über Software.**
 
-<sub>Nico Thomas Henkel · Neuching, Bayern · Geodaten © OpenStreetMap-Mitwirkende (ODbL)</sub>
+[nico@multaenhavo.com](mailto:nico@multaenhavo.com)
+
+<sub>© 2025–2026 MultaEnhavo · Nico Thomas Henkel · Neuching, Bayern</sub>
 
 </div>
